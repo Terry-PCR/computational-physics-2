@@ -19,26 +19,33 @@ The course focuses on introducing advanced numerical methods, high-performance c
 ## 📚 Syllabus & Topics
 
 ### 1. Ordinary Differential Equations (ODEs) in Physics
-- Initial Value Problems (IVPs), Euler methods, Runge-Kutta methods, and physical applications.
-- Boundary Value Problems (BVPs), shooting methods, and finite difference methods.
+- Ordinary differential equations, and initial value problems
+- Euler methods, Runge-Kutta methods, and applications
+- Boundary value problems, shooting and finite difference methods, applications
 
 ### 2. Software Design for Physicists
-- Python classes, modules, and standalone packaging.
-- Object-Oriented Programming (OOP) design patterns in science.
-- Profiling, timing tests, and efficient code optimization.
+- Python classes and modules
+- Standalone modules and python packaging
+- Software design using object oriented programming
+- Timing tests and efficient coding
 
 ### 3. Parallel Computing & High-Performance Computing (HPC)
-- HPC infrastructure, job managers, and cluster usage.
-- Parallel processing: CPU/GPU, `multiprocessing`, and `joblib`.
-- Message Passing Interface (`MPI`) and Application Programming Interfaces (`APIs`).
+- High-performance computing (HPC) and job managers
+- Parallel computing, CPU/GPU, multiprocessing and joblib
+- The Message Passage Interface (MPI)
+- Application Programming Interfaces (APIs)
 
-### 4. Partial Differential Equations (PDEs) in Physics
-- Classification and solution methods for parabolic and elliptic PDEs.
-- Fast Fourier Transform (FFT) methods applied to the Heat and Poisson equations.
+### 4. Partial differential equations in physics:
+- Partial differential equations, generalities and classification
+- Methods of solving partial differential equations
+- Parabolic and elliptical problems.
+- FFT methods: Heat and Poisson equations
 
-### 5. Introduction to Computational Fluid Dynamics (CFD)
-- Hyperbolic problems, discretisation, meshing, and conservation laws.
-- Advection, wave propagation, shocks, and basic hydrodynamics.
+### 5. Introduction to computational fluid dynamics (CFD)
+- Hyperbolic problems
+- Discretisation, meshing and conservation in CFD
+- Advection, waves and shocks
+- Introduction to hydrodynamics
 
 ### 6. Special Topics in Computational Physics
 - Applications in fluids, electromagnetism, heat flow, and quantum mechanics.
