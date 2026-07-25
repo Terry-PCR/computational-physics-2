@@ -1,0 +1,18 @@
+Number of cores1
+{'metal': 'Copper', 'thermal_t': 224.5}
+{'metal': 'Iron', 'thermal_t': 806.3}
+{'metal': 'Aluminum', 'thermal_t': 251.3}
+{'metal': 'Brass', 'thermal_t': 592.0}
+{'metal': 'Steel', 'thermal_t': 975.1}
+{'metal': 'Zinc', 'thermal_t': 499.7}
+{'metal': 'Lead', 'thermal_t': 834.8}
+{'metal': 'Titanium', 'thermal_t': 1539.6}
+{'metal': 'Silver', 'thermal_t': 160.8}
+{'metal': 'Gold', 'thermal_t': 200.6}
+{'metal': 'Nickel', 'thermal_t': 806.3}
+{'metal': 'Tungsten', 'thermal_t': 341.5}
+{'metal': 'Magnesium', 'thermal_t': 272.5}
+{'metal': 'Tin', 'thermal_t': 519.7}
+{'metal': 'Platinum', 'thermal_t': 755.3}
+{'metal': 'Cobalt', 'thermal_t': 732.4}
+Execution time: 47.7024
